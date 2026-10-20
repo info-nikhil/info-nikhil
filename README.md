@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=180&section=header&text=Nikhil%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" alt="Nikhil Kumar profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=180&section=header&text=Nikhil%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" alt="Nikhil profile banner"/>
 
 ### Building useful software. Solving real problems. Learning every day.
 
